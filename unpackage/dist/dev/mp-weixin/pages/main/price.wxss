@@ -1,0 +1,8 @@
+
+.cu-form-group input{
+	width: 140rpx;
+	text-align: left;
+}
+
+
+

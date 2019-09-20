@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/main/list",
+    "pages/main/price",
+    "pages/main/group",
+    "pages/main/group_add",
+    "pages/main/group_edit",
+    "pages/main/child",
+    "pages/member/add",
+    "pages/member/edit",
+    "pages/main/password",
+    "pages/login/login",
+    "pages/reg/reg",
+    "pages/pwd/pwd",
+    "pages/user/user"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#0faeff",
+    "backgroundColor": "#fbf9fe"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
